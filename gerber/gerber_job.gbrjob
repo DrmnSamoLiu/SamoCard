@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.0.1*%
+%TF.CreationDate,2018-06-03T14:21:38Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Jimmy Liu <jliuzero3@gmail.com>*%
+%TJ.B_ID,untitled*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,86.000000*%
+%TJ.B_Size_Y,54.000000*%
+M02*
