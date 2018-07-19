@@ -12,7 +12,7 @@ With SamoCard, you can:
 In order to  build yourself a SamoCard, you need:
   - **A printed SamoCard PCB**.  
     Preferably as thin as possible, to make it fit your wallet better.
-    A normal NFC card is 1mm thick, I myself chose 0.4mm when I send it for manufature to      compensate the thickness of SMD tact swithes.
+    A normal NFC card is 1mm thick, I personally chose 0.4mm when I send it for manufature to compensate the thickness of SMD tact switches.
 
   - **4 KRM-1187 SMD tact switches**.  
   Of course you can edit the SamoCard EAGLE brd file to fit other type of switch you like.
